@@ -8,4 +8,4 @@ How to create a simple Node.js server:
 - With the command line go to the folder you just cloned/downloaded;
 - Type 'npm start', so your server start running;
 - Go to the browser and access http://127.0.0.1:1337/.
--demo
+
